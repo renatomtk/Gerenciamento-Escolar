@@ -1,2 +1,2 @@
-# Trabalho_PUCPR
+# Sistema de Gerenciamento Escolar
 Criação de um sistema de gerenciamento escolar (inclusão, listagem, atualização e exclusão) de alunos, professores, turmas, matrículas e disciplinas.
